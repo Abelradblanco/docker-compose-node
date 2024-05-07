@@ -2,7 +2,7 @@
 
 ### Emulating Network Requests
 
-This repository serves as a practical learning resource for building Docker images with Go.
+This repository serves as a practical learning resource for building Docker images with Node.
 
 #### Using `test.rest` for Network Emulation
 
